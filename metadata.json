@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Zeno Figma Compiler",
+  "description": "A fully functional compiler workflow transforming Figma designs into React or HTML code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
