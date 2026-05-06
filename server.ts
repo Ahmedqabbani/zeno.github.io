@@ -2,7 +2,7 @@ import express from 'express';
 import { createServer as createViteServer } from 'vite';
 import path from 'path';
 import * as url from 'url';
-import { compileReact, compileHtml } from './src/lib/compiler.js';
+import { compileReact, compileHtml } from 'zeno-compiler-core';
 
 const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
